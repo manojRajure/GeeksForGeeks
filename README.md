@@ -1,2 +1,3 @@
-# GreeksForGreeks
-it is a solution repository of greeksforgreeks questions using python
+# GeeksForGeeks
+It is a solution repository of GeeksForGeeks questions.
+Solve using Python.
