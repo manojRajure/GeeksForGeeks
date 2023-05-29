@@ -24,7 +24,13 @@ Expected Auxiliary Space: O(1)
 Constraints:
 1 <= Length of S<= 105
 '''
-
 class Solution:
     def isPalindrome(self, S):
         return 1 if S[:] == S[::-1] else 0 
+
+# for run in python IDE
+  S=input()
+  if(S==S[::-1]):
+    print(1)
+  else:
+    print(0)
